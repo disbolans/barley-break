@@ -4,7 +4,7 @@
 
 var fild = [];
 var x, y;
-var size  = 2;
+var size  = 3;
 var n = 1024;
 
 function newGame() {
